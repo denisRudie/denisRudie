@@ -10,3 +10,4 @@
 ##### ⚡ [Pooh JMS](https://github.com/denisRudie/job4j_pooh) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
 ##### ⚡ [Employees Service](https://github.com/denisRudie/job4j-rest-service) - Spring (Boot, Data, Web-RestTemplate), Postgres, Junit, Mockito.
 ##### ⚡ [Dream Job](https://github.com/denisRudie/job4j_dreamjob) - Java Servlets, Postgres, HTML, ajax, Mockito.
+##### ⚡ [Job grabber](https://github.com/denisRudie/job4j_grabber) - Парсер вакансий с сайта-агрегатора по ключевому слову. Java Сore, quartz-scheduler, jdbc, Postgres.
