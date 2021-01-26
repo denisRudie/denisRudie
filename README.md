@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### My projects:
-##### ⚡ [Forum](https://github.com/denisRudie/job4j_forumgetbootstrap.com) - project Forum. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
+##### ⚡ [Forum](https://github.com/denisRudie/job4j_forum) - project Forum. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
 ##### ⚡ [Car accident service](https://github.com/denisRudie/job4j_car_accident) - project Car accident. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
 ##### ⚡ [Cinema booking service](https://github.com/denisRudie/cinema) - cinema hall booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).
 ##### ⚡ [ToDo list](https://github.com/denisRudie/to-do-list) - My ToDo list implemetation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
